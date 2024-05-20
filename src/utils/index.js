@@ -52,23 +52,23 @@ export const footerLinks = [
     links: [
       {
         name: "Content",
-        link: "https://naseemkhan.vercel.app/",
+        link: "####",
       },
       {
         name: "How it Works",
-        link: "https://naseemkhan.vercel.app/",
+        link: "####",
       },
       {
         name: "Create",
-        link: "https://naseemkhan.vercel.app/",
+        link: "####",
       },
       {
         name: "Explore",
-        link: "https://naseemkhan.vercel.app/",
+        link: "####",
       },
       {
         name: "Terms & Services",
-        link: "https://naseemkhan.vercel.app/",
+        link: "####",
       },
     ],
   },
@@ -77,23 +77,23 @@ export const footerLinks = [
     links: [
       {
         name: "Help Center",
-        link: "https://naseemkhan.vercel.app/",
+        link: "####",
       },
       {
         name: "Partners",
-        link: "https://naseemkhan.vercel.app/",
+        link: "####",
       },
       {
         name: "Suggestions",
-        link: "https://naseemkhan.vercel.app/",
+        link: "####",
       },
       {
         name: "Blog",
-        link: "https://naseemkhan.vercel.app/",
+        link: "####",
       },
       {
         name: "Newsletters",
-        link: "https://naseemkhan.vercel.app/",
+        link: "####",
       },
     ],
   },
@@ -102,11 +102,11 @@ export const footerLinks = [
     links: [
       {
         name: "Our Partner",
-        link: "https://naseemkhan.vercel.app/",
+        link: "####",
       },
       {
         name: "Become a Partner",
-        link: "https://naseemkhan.vercel.app/",
+        link: "####",
       },
     ],
   },
